@@ -208,7 +208,7 @@
             <div class="col-md-10 col-xl-11 col-xxl-9 mx-auto py-5 px-1-6 px-md-6 px-lg-8 px-xxl-14 text-block" style=" position: absolute; z-index:100">
                 <h1 class="lh-1 mt-8 mt-lg-10 font-weight-700" style="text-transform: none">
                     <p class="display-xl-3 big">인도네시아 수도이전 신수도(IKN)</p>
-                    <p class="display-xl-4">MSW 소각발전시설(30t/d x 2기) 설치공사 중</p>
+                    <p class="display-xl-4">MSW 소각발전시설(30t/d x 2기) 설치공사 완료</p>
                     <!-- <p class="display-xl-4">설치공사 중</p> -->
                 </h1>
             </div>
